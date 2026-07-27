@@ -24,6 +24,4 @@ Proyecto de visualización de datos en Python para analizar la estructura organi
 - **Tendencia de contrataciones:** Se observa una baja pronunciada en las contrataciones durante **2020**, con una recuperación constante a partir de **2022**.
 - **Equidad salarial:** No existe correlación entre la edad y el sueldo ($r \approx 0$). Las remuneraciones se otorgan de manera equitativa sin sesgo etario.
 
----
 
-📁 *El análisis completo con código y gráficos integrados se encuentra en el archivo `technova_analisis_visual.ipynb`.*
